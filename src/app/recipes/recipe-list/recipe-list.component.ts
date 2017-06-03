@@ -11,7 +11,12 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Carrot Jummy',
       'nice carrot pie',
-      'http://http://everydaygoodthinking.com/wp-content/uploads/2015/04/Carrot-Pie-Hamilton-Beach-01.jpg'
+      'http://everydaygoodthinking.com/wp-content/uploads/2015/04/Carrot-Pie-Hamilton-Beach-01.jpg'
+      ),
+new Recipe(
+      'Carrot Jummy',
+      'nice carrot pie',
+      'http://everydaygoodthinking.com/wp-content/uploads/2015/04/Carrot-Pie-Hamilton-Beach-01.jpg'
       )
   ];
 
